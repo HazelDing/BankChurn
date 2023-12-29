@@ -12,9 +12,9 @@ rates and improved overall customer retention.
 
 II. Choice of Model:
 
-A. Artificial Neural Network (ANN) model
+a. Artificial Neural Network (ANN) model
 
-B. Random Forest Classification model
+b. Random Forest Classification model
 
 III. Data Science Pipeline
 
