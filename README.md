@@ -1,5 +1,5 @@
 # Bankchurn Analysis
-I Project Review:
+I. Project Review:
 
 This project addresses the pressing challenge of credit card customer churn in a banking institution, where a
 growing number of customers are discontinuing their credit card services. The objective is to investigate the root causes of
