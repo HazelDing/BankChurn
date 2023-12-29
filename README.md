@@ -19,10 +19,15 @@ B. Random Forest Classification model
 III. Data Science Pipeline
 
 A. Data Collection
+
 B. Data Preparation
+
 C. Exploratory Data Analysis (EDA)
+
 D. Future Engineering
+
 E. Machine Learning Model
+
 F. Model Evaluation
 
 IV Conclusion:
