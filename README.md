@@ -54,4 +54,23 @@ The bank needs to customize retention strategies based on demographic informatio
 
 VI IEEE Machine Learning Report
 
-[Milestone Report.pdf](https://github.com/HazelDing/BankChurn/files/13851338/Milestone.Report.pdf)
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/7867b733-adb7-4550-9242-e4c60e93cfa4)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/bec4670c-b5d6-4d29-9592-5f37c4fe24b9)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/6d887b75-9c3e-47c9-a555-0e0076f8e146)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/4793f48d-e057-4ff6-8a52-914d80994d06)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/097cc205-db71-4b7c-99b6-9c1c150021ba)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/89c02485-cefb-4be5-b245-b2f99ad810b2)
+
+![image](https://github.com/HazelDing/BankChurn/assets/149340952/863f10f2-766d-4e0c-9630-4dd71179d36d)
+
+
+
+
+
+
+
