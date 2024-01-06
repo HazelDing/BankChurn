@@ -52,3 +52,6 @@ The bank needs to provide personalized financial counseling or debt management s
 Combined with EDA we did, categorical variables like gender and the number of dependents also play important roles in churn rate [2].
 The bank needs to customize retention strategies based on demographic information. For example, tailor marketing messages and loyalty programs to specific gender preferences or family-oriented incentives for customers with dependents.
 
+VI IEEE Machine Learning Report
+
+[Milestone Report.pdf](https://github.com/HazelDing/BankChurn/files/13851338/Milestone.Report.pdf)
