@@ -31,11 +31,11 @@ E. Machine Learning Model
 
 F. Model Evaluation
 
-# IV Conclusion:
+# IV. Conclusion:
 
 Our analysis leads us to the determination that the Random Forest model outperforms the ANN model in terms of accuracy. Moreover, the Random Forest model provides a valuable feature ranking, offering insights into the importance of different features in determining churn rates.
 
-# V Business Insights:
+# V. Business Insights:
 
 1. Focus on transaction activity
 Total_Trans_Ct (Total transaction count in the last 12 months) is the most important feature for predicting churn.
@@ -53,7 +53,7 @@ The bank needs to provide personalized financial counseling or debt management s
 Combined with EDA we did, categorical variables like gender and the number of dependents also play important roles in churn rate [2].
 The bank needs to customize retention strategies based on demographic information. For example, tailor marketing messages and loyalty programs to specific gender preferences or family-oriented incentives for customers with dependents.
 
-# VI IEEE Machine Learning Report
+# VI. IEEE Machine Learning Report
 
 ![image](https://github.com/HazelDing/BankChurn/assets/149340952/7867b733-adb7-4550-9242-e4c60e93cfa4)
 
